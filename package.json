@@ -10,7 +10,7 @@
     "seed": "cd api && npm run seed",
     "sync": "cd api && npm run sync",
     "api:dev": "cd api && npm run dev",
-    "api:build": "cd api && npm run build",
+    "api:build": "cd api && npm run build", 
     "api:start": "cd api && npm run start",
     "api:seed": "cd api && npm run seed",
     "api:sync": "cd api && npm run sync",
@@ -37,7 +37,7 @@
   "keywords": [
     "affiliate",
     "neo4j",
-    "graph-database",
+    "graph-database", 
     "shopify",
     "marketing"
   ]
